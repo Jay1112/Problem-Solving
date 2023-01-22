@@ -1,4 +1,4 @@
-// Find the Sum of Maximum and Minimum in the Array
+// Find the Sum of Maximum and Minimum in the Array -> GfG
 
 // Time  Complexity : O(n)
 // Space Complexity : O(1)
