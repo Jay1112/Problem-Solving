@@ -1,4 +1,4 @@
-// Chocolate Distribution Problem 
+// Chocolate Distribution Problem -> GfG
 
 // Time  Complexity : O(nlogn)
 // Space Complexity : O(1)
